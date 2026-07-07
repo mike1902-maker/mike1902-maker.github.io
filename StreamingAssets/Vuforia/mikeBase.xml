@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="image-target2-planetas" size="0.160000 0.160000" />
+    <ImageTarget name="image-target" size="0.160000 0.160000" />
+  </Tracking>
+</QCARConfig>

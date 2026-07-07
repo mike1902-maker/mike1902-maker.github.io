@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="InstrumentalSeparacion" size="10.000000 8.002853" />
+    <ImageTarget name="InstrumentalAspiracion" size="10.000000 8.002853" />
+    <ImageTarget name="InstrumentalSutura" size="10.000000 8.002853" />
+    <ImageTarget name="InstrumentalSujecion" size="10.000000 8.002853" />
+    <ImageTarget name="InstrumentalHemostasia" size="10.000000 8.002853" />
+    <ImageTarget name="InstrumentalCorte" size="10.000000 7.500000" />
+  </Tracking>
+</QCARConfig>
